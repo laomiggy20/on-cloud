@@ -46,7 +46,7 @@ function generateMessage(noCount) {
     "Yahay ba nimo",
     "Pag sure mahal ba :(",
     "Basin ma hangyo pa hehe",
-    "Kahilakon nako...",
+    "Please....",
     "Hilak nalang ko",
   ];
 
